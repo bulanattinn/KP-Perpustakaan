@@ -1,1 +1,1 @@
-Pro tugas matakuliah Kerja Praktek
+Project tugas matakuliah Kerja Praktek
